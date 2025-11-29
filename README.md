@@ -1,1 +1,1 @@
-# Prueba-tecnica-Mini-calculadora-de-notas-480
+# Prueba técnica: Mini calculadora de notas
